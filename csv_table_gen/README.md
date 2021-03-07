@@ -33,6 +33,6 @@ I recommend using a file less than 1GB for processing using this tool.
 
 **Recommendations**
 
-Please process files less than 1 GB
-Ensure that the table does not exist already in the Database.
-If you want to append data to an existing table, please contact me on pavan64pavan@gmail.com
+* Please process files less than 1 GB.
+* Ensure that the table does not exist already in the Database.
+* If you want to append data to an existing table, please get in touch with me on pavan64pavan@gmail.com
