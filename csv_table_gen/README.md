@@ -13,12 +13,12 @@ I recommend using a file less than 1GB for processing using this tool.
 **Instructions**
 
 1. Extract the .exe file from the ZIP file csv_table_gen_fe.zip.
-2. Run the csv_table_gen_fe.exe file, a GUI window appears
+2. Run the csv_table_gen_fe.exe file, a GUI window appears within a  minute or so.
 3. Browse the file, please select a CSV File with Column Header. The Column Header will be used for creating the Table. 
-4. Enter a preferred Database Name. The tool exits with an ERROR Message if the Database Name is blank.
+4. Enter a preferred Database Name. The tool creates a '.db' file within the same directory as input file. It exits with an ERROR Message if the Database Name is blank.
 5. Enter the required Table Name and click on Submit. The tool exits with an ERROR Message if the Table Name is blank.
 6. If the data is in hundreds of MBs, it will take few minutes to complete the process. The print statements in the Console should display 'Data Insertion in Progress...'
-7. Once the Data Insertion is complete, a INFO window dialog box appears with a SUCCESS message.
+7. Once the Data Insertion is complete, a INFO window dialog box appears with a SUCCESS message. The Database file should be created 
 
 **Data Analytics**
 
