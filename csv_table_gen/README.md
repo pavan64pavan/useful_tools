@@ -38,6 +38,10 @@ I recommend using a file less than 1GB for processing using this tool.
 
 **Recommendations**
 
-* Please process files less than 1 GB.
+* Please process files less than 1 GB. 
 * Ensure that the table does not exist already in the Database.
 * If you want to append data to an existing table, please get in touch with me on my email pavan64pavan@gmail.com
+
+**Suggestions & Feedback**
+
+* Please email me on pavan64pavan@gmail.com with the keyword CSV_Table_Gen in the Subject line.
